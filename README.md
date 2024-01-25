@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### gh-pages Deceptions
+
+If you wish to fork this site, remember that `npm run deploy` requires a `gh-pages` branch on your remote.  
+You don't necessarily need to push your local main branch to the remote, but that just looks weird, y'know?
+
 ## Available Scripts
 
 In the project directory, you can run:
