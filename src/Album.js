@@ -144,7 +144,7 @@ export default function Album() {
               <br></br>
               <a href="https://twitter.com/chinoki346"> @chinoki346</a> to highlight cool art check a look
               <br></br> <br></br>
-              Last Updated Jan. 25 2024
+              Last Updated Feb. 05 2025
             </Typography>
           </Container>
         </div>
